@@ -1,0 +1,7 @@
+# 원본 자료(저작권·대용량)는 제외
+자료모음/*
+!자료모음/.gitkeep
+*.pdf
+.claude/settings.local.json
+.obsidian/workspace*
+.DS_Store
