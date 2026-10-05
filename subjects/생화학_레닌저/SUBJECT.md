@@ -1,5 +1,5 @@
 # 생화학 (Lehninger Principles of Biochemistry)
-- 판: (7판/8판 — 확인 후 기입)
+- 판: 8판 (Lehninger Principles of Biochemistry, 8th ed.)
 - 범위: Ch.1 – Ch.6 Enzymes
 - 목표/시험일:
 - 용어 규칙: 한국어 설명 + 영어 용어 병기 (예: 소수성 효과 hydrophobic effect)
